@@ -1,9 +1,33 @@
 h1 {
     color: black;
-    font-size: 48px;
+    width: 100%;
+    font-size: 96px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
+
+h2 {
+    font-size: 48px;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 img {
     width: 400px;
     height: auto;
+}
+
+figcaption {
+    width: 400px
+}
+
+nav {
+    background-color: lightskyblue;
+}
+
+img {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+main {
+    text-align: center;
 }
